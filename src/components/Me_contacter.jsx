@@ -1,7 +1,7 @@
 function Presentation () {
    return (
    <div>
-<h1>Me contacter</h1>
+<h2>Me contacter</h2>
    </div>
    )
 }
