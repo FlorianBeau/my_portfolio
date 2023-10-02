@@ -1,0 +1,26 @@
+#div_img {
+    height: 350px;
+    width: 350px;
+    padding-right: 65px;
+    padding-top: 50px;
+
+}
+
+#img1 {
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+#div_container1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+#div_about {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: left;
+}
