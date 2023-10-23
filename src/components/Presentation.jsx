@@ -1,5 +1,5 @@
 import img1 from "../styles/img1.png"
-import "../styles/header.css"
+import "../styles/Header.css"
 
 function Presentation () {
    return (
