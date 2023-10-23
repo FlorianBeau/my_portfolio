@@ -1,0 +1,13 @@
+.div_container_img {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.div_project_img {
+    background-color: #fff;
+}
+
+a {
+    padding-right: 0px;
+}
