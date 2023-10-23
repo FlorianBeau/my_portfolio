@@ -7,25 +7,29 @@ function Header () {
     <>
     <div id="div_header">
       <nav>
-            <a href="/#about">
+            <a href="#Presentation">
               <span className="blue">0.</span>
               <span  className="white"> Présentation</span>
             </a>
-            <a href="/#mes_realisations">
+            <a href="#Mes_realisations">
               <span className="blue">
                 1.
               </span>
               <span className="white"> Mes réalisations</span>
             </a>
-            <a href="/#tarifs">
-              <span className="blue">
-                2.
-              </span>
-              <span  className="white"> Tarifs</span>
+            <a href="#Skills">
+              <span className="blue">2.</span>
+              <span  className="white"> Skills</span>
             </a>
-          <a href="/#me_contacter">
+            <a href="#Devis">
               <span className="blue">
                 3.
+              </span>
+              <span  className="white"> Devis</span>
+            </a>
+          <a href="#Me_contacter">
+              <span className="blue">
+                4.
               </span>
               <span  className="white"> Me contacter</span>
             </a>
