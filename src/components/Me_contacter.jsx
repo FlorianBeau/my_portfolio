@@ -3,8 +3,7 @@ import "../styles/Me_contacter.css"
 function Me_contacter() {
   return (
     <div id="Me_contacter">
-<a href="mailto:adresse@exemple.com" className="button_mail white">Envoyer un e-mail</a>
-<h2>A propos</h2>
+      <h2>A propos</h2>
       <p>
         © Copyright 2022</p>
       <p>

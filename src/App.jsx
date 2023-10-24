@@ -4,7 +4,7 @@ import Header from "./components/Header"
 import Presentation from "./components/Presentation"
 import Mes_realisations from "./components/Mes_realisations"
 import Skills from "./components/Skills"
-import Tarifs from "./components/Tarifs"
+import Devis from "./components/Devis"
 import Me_contacter from "./components/Me_contacter"
 import AppCss from "./App.css"
 
@@ -16,7 +16,7 @@ function App() {
       <Presentation />
       <Mes_realisations />
       <Skills />
-      <Tarifs />
+      <Devis />
       <Me_contacter />
     </>
   )

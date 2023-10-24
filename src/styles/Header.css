@@ -8,11 +8,7 @@
 }
 
 #div_img {
-    height: 200px;
-    width: 200px;
-    padding-right: 65px;
-    padding-top: 25px;
-
+    margin: 50px 0px 50px 0px;
 }
 
 #img1 {
@@ -20,11 +16,7 @@
     width: 200px;
     border-radius: 50%;
     object-fit: cover;
-}
-
-#div_container1 {
-    display: flex;
-    justify-content: space-between;
+    margin-right: 35px;
 }
 
 #div_about {
@@ -44,4 +36,11 @@
 a {
     text-decoration: inherit;
     padding-right: 10px;
+}
+
+.div_top_header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
 }

@@ -1,8 +1,8 @@
-.button_mail {
+.button_mail_devis {
     background-color: #56c8ea;
     padding: 10px 10px;
     margin: 20px 30px 20px 0px;
-    width: 230px;
+    width: 220px;
     border-radius: 10px;
     text-align: center;
     font-size: 19px;
@@ -10,6 +10,22 @@
     transition: transform 0.2s;
 }
 
-.button_mail :hover {
-    transform: scale(1.1);
+.button_mail_devis:hover {
+    transform: scale(1.05);
+}
+
+.button_mail {
+    background-color: #56c8ea;
+    padding: 10px 10px;
+    margin: 20px 30px 20px 0px;
+    width: 130px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 19px;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+    
+.button_mail:hover {
+    transform: scale(1.05);
 }
