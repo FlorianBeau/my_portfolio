@@ -1,6 +1,7 @@
 import img1 from "../styles/img1.png"
 import "../styles/Header.css"
 import "../styles/Presentation.css"
+import adresseMail from "../assets/adresseMail.png"
 
 function Presentation () {
    return (
@@ -21,7 +22,7 @@ function Presentation () {
                      <div className="flex">
                         <a className="button white" href="https://github.com/FlorianBeau">GitHub</a>
                         <a className="button white" href="https://www.linkedin.com/in/florian-beau-15604059">Linkedin</a>                     
-                     <a href="mailto:contact@florianbeau.com" className="button_mail white">Contactez-moi</a>
+                  <img id="img2" src={adresseMail} alt="adresse mail"/>
                      </div>
                </div>
          </div>

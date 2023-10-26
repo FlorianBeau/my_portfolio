@@ -44,3 +44,9 @@ a {
     justify-content: flex-start;
     align-items: center;
 }
+
+@media screen and (max-width: 642px) {
+    #div_header {
+        display: none;
+    }
+}
